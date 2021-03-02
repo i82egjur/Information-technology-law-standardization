@@ -52,7 +52,7 @@
 
 ### Practice
 
-#### Therory 
+#### Theory 
 1. See the problem 
 2. Invent the solution
 3. Send to W3C
