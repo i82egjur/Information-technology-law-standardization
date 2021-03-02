@@ -12,7 +12,7 @@
   - Wednesday (16:00 - 18:00)
 
 
-✅ <- Confirmed work   X <- Non confirmed work
+✅ <- Finished job | X <- Non finished job
 
 
 ### Chapter 1:
