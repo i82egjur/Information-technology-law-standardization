@@ -55,18 +55,22 @@ innovación suficientemente buena puede crear un estandar nuevo)_
 
 - Subject matter: _(Materia de aplicación)_
   -  materials, objects, processes, information...
+  
 - Origin: _(Origen)_
   - ***de facto***, in reality (by use)  _(Por uso, cuando se usa por costumbre)_
   - ***de jure***, on purpouse (by an organisim or an association)  _(Creado a proposito por un organismo o una asociación)_
+  
 - Applicability _(Aplicabilidad)_
   - Open _(Abierto)_
   - Closed  _(Cerrado)_
+  
 - Scope _(Ámbito de aplicación)_
   - International
   - National
   - Local
   - Industrial group
   - Private
+  
 - Legal binding _(Legalmente vinculante)_
   - If there is some directive, law or rule imposing its use   _(Si existe alguna ley que obligue a su uso)_
 
