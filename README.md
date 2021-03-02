@@ -4,15 +4,12 @@
 ## Schedule
 - GG: 
 
-Monday    (10:30 - 12:00)
-
-Tuesday   (10:30 - 12:00)
-
-Friday    (13:00 - 14:30)
+  - Monday    (10:30 - 12:00)
+  - Tuesday   (10:30 - 12:00)
+  - Friday    (13:00 - 14:30)
 
 - GM:
-
-Wednesday (16:00 - 18:00)
+  - Wednesday (16:00 - 18:00)
 
 
 ✅ <- Confirmed work
