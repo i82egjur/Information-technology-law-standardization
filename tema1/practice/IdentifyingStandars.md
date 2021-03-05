@@ -10,8 +10,14 @@
     its representing a evolutión of the standard 802.11 ac, that later in the second part we are
     going to descrive more effusively.
   
-- This is called as WIFI 6, its a type of WLAN (Wireless Local Area Network) designed for working in 
-  2.4GHz y 5 GHz.
+  - This is called as WIFI 6, its a type of WLAN (Wireless Local Area Network) designed for working                
+     in 2.4GHz y 5 GHz.
+     
+## 2. Advantages
+
+- In concrete, 802.11ax represent an evolution of the standard 802.11ac, that according to 
+  cisco's website its apports efficiency, flexibility and escalability that permits that news and
+  currents networks aument the speed and capacity with their news applications.
   
   
   
