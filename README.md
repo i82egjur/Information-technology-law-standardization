@@ -19,7 +19,7 @@
 
 [X] Class activity U1 -> -
 
-[X] Unit 1 practice -> 9/03/2021
+[✅] Unit 1 practice -> 9/03/2021
 
 [✅] Unit 1 cuestionnaire -> 5/03/2021
 
