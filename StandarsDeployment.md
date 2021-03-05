@@ -39,3 +39,11 @@
 # Mark of conformity
 - Regeisteres mark, to limit its use to standard conformity indication
 - If only a part of the product is coveredm care not to mislead.
+
+
+Example certifications of a person competence
+- Cisco CCNA
+- AEIPRO -> IPMA
+- Project Managment Institute (PMI) -> PMP
+- Linux Professional Institute (LPI)
+- EUCIP
