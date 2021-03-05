@@ -26,7 +26,7 @@
 
 ### Chapter 2:
 
-[X] Class activity U2 -> -
+[✅] Class activity U2 -> -
 
 [X] Unit 2 practice -> 08/03/2021
 
