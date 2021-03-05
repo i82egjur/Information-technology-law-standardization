@@ -1,6 +1,6 @@
-
-# Autor: Rafael Egea Jurado
-# Mail: i82egjur@uco.es
+# Credentials
+- Autor: Rafael Egea Jurado
+- Mail: i82egjur@uco.es
 ----------
 
 
