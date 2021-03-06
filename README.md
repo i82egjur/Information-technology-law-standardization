@@ -35,6 +35,7 @@
 ### Chapter 3:
 
 [X] Class activity U3 -> -
+
 [X] Questionnaire -> 20 marzo
 
 ### Chapter 4:
