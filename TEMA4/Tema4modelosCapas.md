@@ -124,9 +124,9 @@ the basic aspects described in several parts. And finally, some information abou
 
 #### d) What is the connection mode?
 According to the text:
-> "A connection is an association established for the transfer of data between two or more peer-(N)-entities. Thisassociation  binds  the  peer-(N)-entities  
-> together  with  the  (N–1)-entities  in  the  next  lower  layer.  The  ability  to  establishand release a connection and to transfer data over it is provided > to the (N)-entities in a given (N)-layer by the next lowerlayer  as  a  connection-mode  service.  The  use  of  a  connection-mode  service  by  peer-(N)-
-> entities  proceeds  through  threedistinct phases"
+"A connection is an association established for the transfer of data between two or more peer-(N)-entities. Thisassociation  binds  the  peer-(N)-entities  
+together  with  the  (N–1)-entities  in  the  next  lower  layer.  The  ability  to  establishand release a connection and to transfer data over it is provided  to the (N)-entities in a given (N)-layer by the next lowerlayer  as  a  connection-mode  service.  The  use  of  a  connection-mode  service  by  peer-(N)-
+ entities  proceeds  through  threedistinct phases"
 
 
 ### 11. What does section 6 describes? What is the motivation for choosing the 7 layers of the OSI model?
