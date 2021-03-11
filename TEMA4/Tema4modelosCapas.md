@@ -10,7 +10,7 @@
 4. Scope
 5. Definitions
 6. Notation
-7. Introduction to Oen Systems Interconnection
+7. Introduction to Open Systems Interconnection
 8. Concepts of a layered architecture
 9. Introduction to the specific OSI layers
 10. Detailed description of the resulting OSI architecture
@@ -99,9 +99,9 @@ the basic aspects described in several parts. And finally, some information abou
 #### a) Which are the main principles used to design this structure? 
 - 4.2.10 OSI  is  concerned  not  only  with  the  transfer  of  information  between  systems,  i.e.  transmission,  but  also  withtheir  capability  to  interwork  to  achieve  a  common  (distributed)  task.  In  other  words,  OSI  is  concerned  with  theinterconnection aspects of cooperation1)between systems, which is implied by the expression “systems interconnection.”
 
-- 4.2.11The objective of OSI is to define a set of standards to enable real open systems to cooperate. A system whichcomplies with the requirements of applicable OSI standards in its cooperation with other systems is termed a real opensystem.
+- 4.2.11 The objective of OSI is to define a set of standards to enable real open systems to cooperate. A system whichcomplies with the requirements of applicable OSI standards in its cooperation with other systems is termed a real opensystem.
 
-- 4.2.12The  design  intent  of  the  OSI  standards  is  to  specify  a  set  of  standards  that  make  it  possible  for  autonomoussystems  to  communicate.  Any  equipment  which  communicates  in  conformance  with  all  applicable  OSI  protocolstandards is a real world equivalent of the model concept “open system”. Equipment that is in the “terminal” category,that is, one that requires human intervention for the dominant parts of information processing, may satisfy the conditionsof the previous sentences when the appropriate OSI standards are employed in communication with other open systems
+- 4.2.12 The  design  intent  of  the  OSI  standards  is  to  specify  a  set  of  standards  that  make  it  possible  for  autonomoussystems  to  communicate.  Any  equipment  which  communicates  in  conformance  with  all  applicable  OSI  protocolstandards is a real world equivalent of the model concept “open system”. Equipment that is in the “terminal” category,that is, one that requires human intervention for the dominant parts of information processing, may satisfy the conditionsof the previous sentences when the appropriate OSI standards are employed in communication with other open systems
 
 #### b) What are the services offered from one layer to another? 
 - Communication between peer-entities. 
