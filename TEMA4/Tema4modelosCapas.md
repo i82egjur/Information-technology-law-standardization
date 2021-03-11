@@ -28,10 +28,16 @@
 5. Definitions
 6. Notation
 7. I coul find some Annex too, although it has not have to be this specific ones
+10. Detailed description of the resulting OSI architecture
 
 
 #### c) Do the specific sections follow any concrete order? Which order?
+- We are increasing the abstraction level in each step. Firstly, we could see firstly a forework, an introduction of the text. Secondly, the context, after a 
+brief of the text, the scope, some definitions, the notation that we are finding and finally the real content of the document. After that, we could see and annex
+explaining something in more detail. 
 
+- We can see that firstly we make an introduction of every important item refering to the text, secondly we have the text, and after, an annex.
+ 
 
 
 ### 2. What kind of information is included in the foreword?
@@ -77,11 +83,16 @@ the basic aspects described in several parts. And finally, some information abou
 - Here it is described any letter or simbol used for refering any expression.
 
 ### 9. What is an open system according to this standard? What are the advantages of the interconnection model proposed?
-- 
+- According to the text: "Any  equipment  which  communicates  in  conformance  with  all  applicable  OSI  protocolstandards is a real world equivalent of the model concept “open system”".
 
-
-
-
+- Advantages according Chaudhari, (2019):
+  - It's a generic model.
+  - Layers are distinguished according to the services, interfaces and protocols. 
+  - The protocols are hidden which makes that any protocol could be implemented in this model.
+  - It supports connection-oriented as well as connectionless services.
+  - It follows the divide and conquers technique
+  - This layered architecture follows abstraction principle
+  - It is more secure and adaptable.
 
 
 ### 10. Section 5 describes the layer architecture. 
@@ -97,21 +108,31 @@ the basic aspects described in several parts. And finally, some information abou
 #### d) What is the connection mode?
 
 
-11. What does section 6 describes? What is the motivation for choosing the 7 layers of the OSI model?
 
-12. What information is given in the section 7? 
+### 11. What does section 6 describes? What is the motivation for choosing the 7 layers of the OSI model?
+- It makes an introduction to the specific layers
 
-13. What information is given in the section 8? 
+### 12. What information is given in the section 7? 
+- A detailed description of the resulting OSI architecture. 
+- Definitions of the application layer, services provided by application.entities, connection-mode facilities, connectionless-mode facilities, functions whithin
+the application layer, groupings of functions in the Application Layer, presentation layer, representation of abstract syntax, negotiation of  transfer syntax,
+session Layer, purpose. 
+
+### 13. What information is given in the section 8? 
+- Management aspects of OSI.
+
+### 14. What is explained in section 9? Should all standards have a section like this? Why is it important in this case?
+- Application of consistency and compliance requirements, it would be nice to have a section like this in all standars since compliance requirements are 
+guidelines for compilance with laws and regulation applicable to the specific type assistance. This is enormously helpful at the time of applicating
+the standard due to the fact that the organization that wants to incorporate it know exactly what to do or what include.
 
 
-14. What is explained in section 9? Should all standards have a section like this? Why is it important in this case?
 
 
-
-
-
-## Bibliography
+### Bibliography
 
 - International Telecommunication Union. (1994, july). Information Technology - Open systems interconnection - Basic reference model: The basic modle (ITU-T X.200). ITU-T.
 
 - Khoury, G. E. (2019, 21 march). 3 Reasons Why You Should Number Pleading Paragraphs. Findlaw. https://blogs.findlaw.com/strategist/2018/02/3-reasons-why-you-should-number-pleading-paragraphs.html
+
+- Chaudhari, A. (2019, 27 marzo). 12 Advantages and Disadvantages of OSI model Layered Architecture. CSEstack. https://www.csestack.org/advantages-disadvantages-of-osi-model-layered-architecture/Chaudhari, A. (2019, 27 march). 12 Advantages and Disadvantages of OSI model Layered Architecture. CSEstack. https://www.csestack.org/advantages-disadvantages-of-osi-model-layered-architecture/
