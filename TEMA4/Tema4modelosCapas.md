@@ -120,7 +120,7 @@ the basic aspects described in several parts. And finally, some information abou
 
 
 #### c) What are the information units? 
--Data
+- Data
 
 #### d) What is the connection mode?
 According to the text:
