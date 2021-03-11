@@ -97,16 +97,36 @@ the basic aspects described in several parts. And finally, some information abou
 
 ### 10. Section 5 describes the layer architecture. 
 #### a) Which are the main principles used to design this structure? 
+- 4.2.10 OSI  is  concerned  not  only  with  the  transfer  of  information  between  systems,  i.e.  transmission,  but  also  withtheir  capability  to  interwork  to  achieve  a  common  (distributed)  task.  In  other  words,  OSI  is  concerned  with  theinterconnection aspects of cooperation1)between systems, which is implied by the expression “systems interconnection.”
 
+- 4.2.11The objective of OSI is to define a set of standards to enable real open systems to cooperate. A system whichcomplies with the requirements of applicable OSI standards in its cooperation with other systems is termed a real opensystem.
+
+- 4.2.12The  design  intent  of  the  OSI  standards  is  to  specify  a  set  of  standards  that  make  it  possible  for  autonomoussystems  to  communicate.  Any  equipment  which  communicates  in  conformance  with  all  applicable  OSI  protocolstandards is a real world equivalent of the model concept “open system”. Equipment that is in the “terminal” category,that is, one that requires human intervention for the dominant parts of information processing, may satisfy the conditionsof the previous sentences when the appropriate OSI standards are employed in communication with other open systems
 
 #### b) What are the services offered from one layer to another? 
+- Communication between peer-entities. 
+ - Relationship among N-entity invocation
+ - Connection
+ - Connection endpoint
+ - Multi endpoint connection
+ - Correspondent entities
+ - N relay
+ - Data source
+ - Data sink
+ - Data transmision in all his forms.
+ - Data communication
+ - Connection mode transmission
+ - Connectionless mode trasnsmision.
 
 
 #### c) What are the information units? 
-
+-Data
 
 #### d) What is the connection mode?
-
+According to the text:
+> "A connection is an association established for the transfer of data between two or more peer-(N)-entities. Thisassociation  binds  the  peer-(N)-entities  
+> together  with  the  (N–1)-entities  in  the  next  lower  layer.  The  ability  to  establishand release a connection and to transfer data over it is provided > to the (N)-entities in a given (N)-layer by the next lowerlayer  as  a  connection-mode  service.  The  use  of  a  connection-mode  service  by  peer-(N)-
+> entities  proceeds  through  threedistinct phases"
 
 
 ### 11. What does section 6 describes? What is the motivation for choosing the 7 layers of the OSI model?
