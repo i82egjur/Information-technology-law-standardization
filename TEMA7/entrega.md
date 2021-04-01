@@ -1,0 +1,20 @@
+
+
+# Author: Rafael Egea Jurado
+
+## Standard considered:  IEEE 1063
+
+### 1. What user manual are you answering about? (name, version, url)
+#### Name:
+- IEEE Standard for Software User Documentation
+ 
+#### Version:
+- IEEE Std 1063-2001 (R2007). It mean that it has been approved on 5 December 2001 and reaffirmed on 26 September 2007.
+
+### 2. What is the target audience?
+- As we can see in the abstract, it is an user manual made for the users of systems containing software.
+
+### 3. Which usage modes are supported?
+- As we can see in section 2.15, this standard recognizes two usage modes: instructional and reference.
+
+### 4. Does it follow the standard? (What agrees? What does not? Explain with an example)
