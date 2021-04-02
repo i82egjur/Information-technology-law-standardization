@@ -3,11 +3,11 @@
 # Author: Rafael Egea Jurado
 
 ## 1. What user manual are you answering about? (name, version, url)
-### Name:  
 **- Name:** Skype Connect™ user guide  
 **- Version:** 4.0  
 **- URL:** https://download.skype.com/share/business/guides/skype-connect-user-guide.pdf  
-### Version:  
+
+## Version:  
 - IEEE Std 1063-2001 (R2007). It mean that it has been approved on 5 December 2001 and reaffirmed on 26 September 2007.
 
 ## 2. What is the target audience?
